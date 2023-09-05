@@ -102,5 +102,5 @@ Este programa utiliza la biblioteca Kivy para su interfaz gráfica, por lo que l
 Los resultados se guardan en un archivo CSV llamado variables.csv.
 Mejoras
 
-[![Icono1](✨)](./✨project0.1.py)
-[![Icono Personalizado](🔨)](./img🔨)
+[![Icono1](✨)](./project0.1.py)
+[![Icono Personalizado](🔨)](./img)
