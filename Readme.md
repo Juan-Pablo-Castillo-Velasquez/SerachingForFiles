@@ -17,6 +17,7 @@
     <th><a href="#autor">Autor</a></td>
   </tr>
 </table>
+# Introduccion:
 
 SearchingForFiles es una herramienta de búsqueda de patrones en archivos que le permite encontrar y recopilar información útil de manera eficiente. Busque patrones en archivos dentro de una carpeta y guarde los resultados en un archivo CSV con facilidad.
 
@@ -154,7 +155,9 @@ Ejecute el programa proporcionando la ruta completa de la carpeta que desea busc
 
 # implementa cosas 🚀
 
-![Imagen del proyecto](./img/example1.png)
+<div align="center">
+  <img src="./img/example1.png" alt="Imagen del proyecto3" width="400">
+</div>
 
 Ingrese el patrón de búsqueda en el cuadro de texto correspondiente (por ejemplo, $CFG->).
 
@@ -166,18 +169,23 @@ Los resultados se guardarán en un archivo CSV llamado variables.csv en el direc
 
 Se le preguntará si desea abrir el archivo CSV. Puede abrirlo haciendo clic en "Sí" o cerrar la ventana emergente haciendo clic en "No".
 
-# visualiza el proceso ::thread::
+# visualiza el proceso :thread:
+<div align="center">
+  <img src="./img/example2.png" alt="Imagen del proyecto2" width="400">
+</div>
 
-# vista del documento ::monocle_face::
+# vista del documento :monocle_face:
 
-![Imagen del proyecto](./img/example3.png)
+<div align="center">
+  <img src="./img/example3.png" alt="Imagen del proyecto3" width="400">
+</div>
 
 ## Contribuidores
 
 Este proyecto ha sido posible gracias a las contribuciones de:
 
-Nombre del Contribuidor 1
-Nombre del Contribuidor 2
+@juanpablo2007k
+@juanPablo-Openlms
 ¡Gracias por su valiosa contribución!
 
 ## Licencia
