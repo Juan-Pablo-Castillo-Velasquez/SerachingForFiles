@@ -129,14 +129,17 @@ Para utilizar esta herramienta, siga estos pasos:
 
 Active el entorno virtual:
 
-Windows:
+## Windows:
 
 ```bash
 venv\Scripts\activate
 Linux/macOS:
 ```
 
+```bash
 source venv/bin/activate
+```
+
 Instale las bibliotecas requeridas:
 
 ```bash
