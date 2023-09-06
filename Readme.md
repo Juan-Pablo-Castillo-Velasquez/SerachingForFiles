@@ -17,7 +17,8 @@
     <th><a href="#autor">Autor</a></td>
   </tr>
 </table>
-# Introduccion:
+
+# Introduccion
 
 SearchingForFiles es una herramienta de búsqueda de patrones en archivos que le permite encontrar y recopilar información útil de manera eficiente. Busque patrones en archivos dentro de una carpeta y guarde los resultados en un archivo CSV con facilidad.
 
@@ -173,6 +174,7 @@ Los resultados se guardarán en un archivo CSV llamado variables.csv en el direc
 Se le preguntará si desea abrir el archivo CSV. Puede abrirlo haciendo clic en "Sí" o cerrar la ventana emergente haciendo clic en "No".
 
 # visualiza el proceso :thread:
+
 <div align="center">
   <img src="./img/example2.png" alt="Imagen del proyecto2" width="400">
 </div>
