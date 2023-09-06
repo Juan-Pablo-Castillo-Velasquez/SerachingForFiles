@@ -1,8 +1,10 @@
 # SearchingForFiles 🔍
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2017/08/08/01/17/colorful-2609978_1280.jpg" height="300" alt="Imagen del proyecto">
+  <strong>¡Bienvenido a searchForfile!</strong><br>
+  <img src="https://th.bing.com/th/id/R.341a37d8a8b0d0ec888abb0a022bfd33?rik=Xu2qQ6vHw4I7AQ&pid=ImgRaw&r=0" height="200" alt="Imagen del proyecto">
 </p>
+
 
 
 <h2>Tabla de Contenidos</h2>
