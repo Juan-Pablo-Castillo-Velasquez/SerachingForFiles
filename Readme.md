@@ -5,30 +5,18 @@
   <img src="https://th.bing.com/th/id/R.341a37d8a8b0d0ec888abb0a022bfd33?rik=Xu2qQ6vHw4I7AQ&pid=ImgRaw&r=0" height="200" alt="Imagen del proyecto">
 </p>
 
-
-
 <h2>Tabla de Contenidos</h2>
-<ul>
-  <li><a href="#instalación">Instalación</a></li>
-  <li><a href="#configuración">Configuración</a></li>
-  <li><a href="#uso">Uso</a></li>
-  <li><a href="#contribuidores">Contribuidores</a></li>
-  <li><a href="#licencia">Licencia</a></li>
-  <li><a href="#notas-adicionales">Notas Adicionales</a></li>
-  <li><a href="#autor">Autor</a></li>
-</ul>
-
-# implementa cosas 🚀
-
-![Imagen del proyecto](./img/example1.png)
-
-# visualiza el proceso ::thread::
-
-![Imagen del proyecto](./img/example2.png)
-
-# vista del documento ::monocle_face::
-
-![Imagen del proyecto](./img/example3.png)
+<table align="center">
+  <tr>
+    <th><a href="#instalación">Instalación</a></td>
+    <th><a href="#configuración">Configuración</a></td>
+    <th><a href="#uso">Uso</a></td>
+    <th><a href="#contribuidores">Contribuidores</a></td>
+    <th><a href="#licencia">Licencia</a></td>
+    <th><a href="#notas-adicionales">Notas Adicionales</a></td>
+    <th><a href="#autor">Autor</a></td>
+  </tr>
+</table>
 
 SearchingForFiles es una herramienta de búsqueda de patrones en archivos que le permite encontrar y recopilar información útil de manera eficiente. Busque patrones en archivos dentro de una carpeta y guarde los resultados en un archivo CSV con facilidad.
 
@@ -51,19 +39,23 @@ SearchingForFiles es una herramienta de búsqueda de patrones en archivos que le
 
 # Ejecute el programa:
 
-bash
-
 1. Copy code
    python searchingforfiles.py
    Ingrese la ruta de la carpeta que desea buscar:
 2. makefile
 
+```bash
 C:\Users\JuanPablo\Documents
+```
+
 Ingrese el patrón de búsqueda:
 
 3. bash
 
+```php
 $CFG->
+```
+
 (Opcional) Seleccione si desea eliminar duplicados:
 
 4. Sí
@@ -138,20 +130,20 @@ Active el entorno virtual:
 
 Windows:
 
-bash
-Copy code
+```bash
 venv\Scripts\activate
 Linux/macOS:
+```
 
-bash
-Copy code
 source venv/bin/activate
 Instale las bibliotecas requeridas:
 
-bash
-Copy code
+```bash
 pip install pyttsx3 pandas kivy
-Configuración
+```
+
+## Configuración
+
 Antes de comenzar, asegúrese de haber configurado correctamente el entorno virtual y las bibliotecas necesarias. Si ha seguido los pasos de instalación, su entorno estará listo para usar.
 
 ## Uso
@@ -159,6 +151,10 @@ Antes de comenzar, asegúrese de haber configurado correctamente el entorno virt
 Para utilizar esta herramienta:
 
 Ejecute el programa proporcionando la ruta completa de la carpeta que desea buscar.
+
+# implementa cosas 🚀
+
+![Imagen del proyecto](./img/example1.png)
 
 Ingrese el patrón de búsqueda en el cuadro de texto correspondiente (por ejemplo, $CFG->).
 
@@ -169,6 +165,12 @@ Haga clic en el botón "Buscar".
 Los resultados se guardarán en un archivo CSV llamado variables.csv en el directorio actual.
 
 Se le preguntará si desea abrir el archivo CSV. Puede abrirlo haciendo clic en "Sí" o cerrar la ventana emergente haciendo clic en "No".
+
+# visualiza el proceso ::thread::
+
+# vista del documento ::monocle_face::
+
+![Imagen del proyecto](./img/example3.png)
 
 ## Contribuidores
 
@@ -194,5 +196,5 @@ Los resultados se guardan en un archivo CSV llamado variables.csv.
 
 Este proyecto fue creado y es mantenido por:
 
-Juan Pablo Castillo velasquez :construction_worker:
-Perfil de GitHub
+Juan Pablo Castillo velasquez 👷
+Perfil de GitHub @JuanPablo-Openlms
