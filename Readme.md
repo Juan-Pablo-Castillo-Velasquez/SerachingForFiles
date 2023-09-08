@@ -11,6 +11,7 @@
   <tr>
     <th><a href="#instalacion-mag_right">:mag_right: Instalación</a></th>
     <th><a href="#bibliotecas-book">:gear: Bibliotecas</a></th>
+    <th><a href="#clonar-proyecto-octocat"> Clonacion :octocat:</a></th>
     <th><a href="#configuraciongear">:computer: Configuración</a></th>
     <th><a href="#uso-computer">:computer: Uso</a></th>
     <th><a href="#contribuidores-busts_in_silhouette">:busts_in_silhouette: Contribuidores</a></th>
@@ -30,7 +31,7 @@ SearchingForFiles es una herramienta de búsqueda de patrones en archivos que le
 * **✅ Opción para eliminar duplicados**
 * **🖥️ Interfaz gráfica sencilla e intuitiva**
 
-# Instrucciones para Instalar Python y Configurar las Variables de Entorno en Windows
+# Instrucciones para Instalar Python y Configuracion.
 
 Antes de comenzar con el desarrollo en Python, asegúrate de seguir estos pasos para instalar Python y configurar las variables de entorno en tu sistema Windows.
 
@@ -46,7 +47,11 @@ Antes de comenzar con el desarrollo en Python, asegúrate de seguir estos pasos 
    ```
    python --version
    ```
+# Clonar Proyecto  :octocat:
 
+ ```bash
+   git clone https://github.com/JuanPablo-Openlms/SerachingForFiles.git
+   ```
 ## Bibliotecas :book:
 
 
