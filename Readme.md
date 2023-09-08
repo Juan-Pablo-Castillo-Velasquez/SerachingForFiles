@@ -4,17 +4,14 @@
   <strong>¡Bienvenido a SearchingForFiles!</strong><br>
   <img src="https://th.bing.com/th/id/R.341a37d8a8b0d0ec888abb0a022bfd33?rik=Xu2qQ6vHw4I7AQ&pid=ImgRaw&r=0" height="200" alt="Imagen del proyecto">
 </p>
-<a href="https://gitmoji.dev">
-		<img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square"
-			 alt="Gitmoji">
-	</a>
+
 
 ## Tabla de Contenidos
 <table align="center">
   <tr>
     <th><a href="#instalacion-mag_right">:mag_right: Instalación</a></th>
     <th><a href="#bibliotecas-book">:gear: Bibliotecas</a></th>
-    <th><a href="#configuración-gear">:computer: Configuración</a></th>
+    <th><a href="#configuraciongear">:computer: Configuración</a></th>
     <th><a href="#uso-computer">:computer: Uso</a></th>
     <th><a href="#contribuidores-busts_in_silhouette">:busts_in_silhouette: Contribuidores</a></th>
     <th><a href="#licencia-page_with_curl">:page_with_curl: Licencia</a></th>
@@ -80,7 +77,7 @@ source venv/bin/activate
 pip install pyttsx3 pandas kivy
 ```
 
-## Configuración  :gear:
+## Configuracion:gear:
 
 Antes de comenzar, asegúrese de haber configurado correctamente el entorno virtual y las bibliotecas necesarias. Si ha seguido los pasos de instalación, su entorno estará listo para usar.
 
