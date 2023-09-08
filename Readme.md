@@ -8,13 +8,13 @@
 ## Tabla de Contenidos
 <table align="center">
   <tr>
-    <th><a href="#instalación">Instalación </a></th>
-    <th><a href="#bibliotecas">Bibliotecas</a></th>
-    <th><a href="#configuración">Configuración</a></th>
-    <th><a href="#uso">Uso</a></th>
-    <th><a href="#contribuidores">Contribuidores</a></th>
-    <th><a href="#licencia">Licencia</a></th>
-    <th><a href="#autor">Autor</a></th>
+    <th><a href="#instalacion-mag_right">:mag_right: Instalación</a></th>
+    <th><a href="#bibliotecas-📚">:gear: Bibliotecas</a></th>
+    <th><a href="#configuración⚙️">:computer: Configuración</a></th>
+    <th><a href="#uso🚀">:computer: Uso</a></th>
+    <th><a href="#contribuidores👥">:busts_in_silhouette: Contribuidores</a></th>
+    <th><a href="#licencia📄">:page_with_curl: Licencia</a></th>
+    <th><a href="#autortechnologist">:man_technologist: Autor</a></th>
   </tr>
 </table>
 
@@ -33,8 +33,7 @@ SearchingForFiles es una herramienta de búsqueda de patrones en archivos que le
 
 Antes de comenzar con el desarrollo en Python, asegúrate de seguir estos pasos para instalar Python y configurar las variables de entorno en tu sistema Windows.
 
-# Instalación :snake:
-
+## instalacion :mag_right:
 
 1. Accede al sitio web oficial de Python en [python.org/downloads](https://www.python.org/downloads/).
 2. Descarga la última versión estable de Python para Windows haciendo clic en el botón de descarga. 📥
@@ -47,7 +46,7 @@ Antes de comenzar con el desarrollo en Python, asegúrate de seguir estos pasos 
    python --version
    ```
 
-## Bibliotecas
+## Bibliotecas 📚
 
 
 Para utilizar esta herramienta, siga estos pasos:
@@ -58,7 +57,7 @@ Para utilizar esta herramienta, siga estos pasos:
    python -m venv venv
    ```
 
-**Active el entorno virtual:**
+**Active el entorno virtual:  :bulb:**
 
 ## Windows:
 
@@ -66,22 +65,22 @@ Para utilizar esta herramienta, siga estos pasos:
 venv\Scripts\activate
 
 ```
-## linux o Linux/macOS
+## linux o Linux/macOS 
 ```bash
 source venv/bin/activate
 ```
 
-# Bibliotecas 📚
+# librerias 
 
 ```bash
 pip install pyttsx3 pandas kivy
 ```
 
-## Configuración ⚙️
+## Configuración⚙️
 
 Antes de comenzar, asegúrese de haber configurado correctamente el entorno virtual y las bibliotecas necesarias. Si ha seguido los pasos de instalación, su entorno estará listo para usar.
 
-# uso 🚀
+# uso🚀
 
 Una vez que hayas instalado Python, puedes ejecutar el programa proporcionando la ruta completa de la carpeta que deseas buscar.
 
@@ -108,7 +107,7 @@ Los resultados se guardarán en un archivo CSV llamado variables.csv en el direc
   <img src="./img/example3.png" alt="Descripción de la imagen" />
 </p>
 
-## Contribuidores 👥
+## Contribuidores👥
 Este proyecto ha sido posible gracias a las contribuciones de:
 
 <p align="center">
@@ -125,7 +124,8 @@ Este proyecto ha sido posible gracias a las contribuciones de:
   <br>
   <a href="mailto:juan.velasquez@openlms.net">juan.velasquez@openlms.net</a>
 </p>
-## Licencia  📄
+
+## Licencia📄
 SearchingForFiles está bajo la Licencia MIT. Consulta el archivo LICENSE.md para obtener más detalles. 
 
 ## Autor:technologist::
@@ -136,7 +136,7 @@ GitHub [GitHub 🌐 Mi perfil en github](https://github.com/JuanPablo-Openlms)
 
 
 
-## Notas Adicionales  📝
+## Notas Adicionales📝
 Asegúrese de que las bibliotecas requeridas estén instaladas antes de ejecutar el programa.
 
 Este programa utiliza la biblioteca Kivy para su interfaz gráfica, por lo que la apariencia puede variar según la plataforma.
