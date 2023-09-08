@@ -4,16 +4,20 @@
   <strong>¡Bienvenido a SearchingForFiles!</strong><br>
   <img src="https://th.bing.com/th/id/R.341a37d8a8b0d0ec888abb0a022bfd33?rik=Xu2qQ6vHw4I7AQ&pid=ImgRaw&r=0" height="200" alt="Imagen del proyecto">
 </p>
+<a href="https://gitmoji.dev">
+		<img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square"
+			 alt="Gitmoji">
+	</a>
 
 ## Tabla de Contenidos
 <table align="center">
   <tr>
     <th><a href="#instalacion-mag_right">:mag_right: Instalación</a></th>
-    <th><a href="#bibliotecas-📚">:gear: Bibliotecas</a></th>
-    <th><a href="#configuración⚙️">:computer: Configuración</a></th>
-    <th><a href="#uso🚀">:computer: Uso</a></th>
-    <th><a href="#contribuidores👥">:busts_in_silhouette: Contribuidores</a></th>
-    <th><a href="#licencia📄">:page_with_curl: Licencia</a></th>
+    <th><a href="#bibliotecas-book">:gear: Bibliotecas</a></th>
+    <th><a href="#configuración-gear">:computer: Configuración</a></th>
+    <th><a href="#uso-computer">:computer: Uso</a></th>
+    <th><a href="#contribuidores-busts_in_silhouette">:busts_in_silhouette: Contribuidores</a></th>
+    <th><a href="#licencia-page_with_curl">:page_with_curl: Licencia</a></th>
     <th><a href="#autortechnologist">:man_technologist: Autor</a></th>
   </tr>
 </table>
@@ -46,7 +50,7 @@ Antes de comenzar con el desarrollo en Python, asegúrate de seguir estos pasos 
    python --version
    ```
 
-## Bibliotecas 📚
+## Bibliotecas :book:
 
 
 Para utilizar esta herramienta, siga estos pasos:
@@ -57,7 +61,7 @@ Para utilizar esta herramienta, siga estos pasos:
    python -m venv venv
    ```
 
-**Active el entorno virtual:  :bulb:**
+##### Active el entorno virtual:  :electric_plug:**
 
 ## Windows:
 
@@ -76,11 +80,11 @@ source venv/bin/activate
 pip install pyttsx3 pandas kivy
 ```
 
-## Configuración⚙️
+## Configuración  :gear:
 
 Antes de comenzar, asegúrese de haber configurado correctamente el entorno virtual y las bibliotecas necesarias. Si ha seguido los pasos de instalación, su entorno estará listo para usar.
 
-# uso🚀
+# uso :computer:
 
 Una vez que hayas instalado Python, puedes ejecutar el programa proporcionando la ruta completa de la carpeta que deseas buscar.
 
@@ -100,14 +104,14 @@ $CFG->.
   <img src="./img/example2.png" alt="Descripción de la imagen" />
 </p>
 
-Haga clic en el botón "Buscar". ✅
+Haga clic en el botón "Buscar". :white_check_mark:
 
 Los resultados se guardarán en un archivo CSV llamado variables.csv en el directorio actual.
 <p align="center">
   <img src="./img/example3.png" alt="Descripción de la imagen" />
 </p>
 
-## Contribuidores👥
+## Contribuidores :busts_in_silhouette:
 Este proyecto ha sido posible gracias a las contribuciones de:
 
 <p align="center">
@@ -125,7 +129,7 @@ Este proyecto ha sido posible gracias a las contribuciones de:
   <a href="mailto:juan.velasquez@openlms.net">juan.velasquez@openlms.net</a>
 </p>
 
-## Licencia📄
+## Licencia :page_with_curl:
 SearchingForFiles está bajo la Licencia MIT. Consulta el archivo LICENSE.md para obtener más detalles. 
 
 ## Autor:technologist::
@@ -136,7 +140,7 @@ GitHub [GitHub 🌐 Mi perfil en github](https://github.com/JuanPablo-Openlms)
 
 
 
-## Notas Adicionales📝
+## Notas Adicionales :page_with_curl:
 Asegúrese de que las bibliotecas requeridas estén instaladas antes de ejecutar el programa.
 
 Este programa utiliza la biblioteca Kivy para su interfaz gráfica, por lo que la apariencia puede variar según la plataforma.
